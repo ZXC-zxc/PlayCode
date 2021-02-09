@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/implementing-shamirs-secret-sharing-scheme-in-python/
